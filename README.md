@@ -1,4 +1,7 @@
-# coomer
+# coomer - nearest mipmap filter fork
+
+Fork to set mipmap filter to nearest to show pixel perfect zoom. 
+
 
 Zoomer application for everyone on Linux.
 
